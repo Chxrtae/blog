@@ -1,0 +1,37 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    }
+    #menu-h ul{
+    max-height: 800px;
+    list-style: none;
+    padding: 0;
+    }
+    nav{
+    width: 15%;
+    top:20%;
+    height: 50%;
+    }nav ul{
+    list-style: none;
+    display: block;
+    padding: 0;
+    margin: auto;
+    }
+    nav ul li{
+    margin: 25px 20px 0 0;
+    }
+    nav ul li a{
+    -webkit-transition: all 0.3s ease-out;
+    background: #051861;
+    color: #f8f8f8;
+    padding: 7px 15px 7px 15px;
+    border-radius: 10px;
+    width: 90%;
+    display: block;
+    text-decoration: none;
+    -webkit-box-shadow: 2px 2px 4px #888;
+    }
+    nav ul li a:hover{
+    background: #fff;
+    color: #1e4cb9;
+    padding: 15px 15px 7px 30px;
+    }

@@ -1,0 +1,1 @@
+<footer> MENINAS - Todos os direitos Reservados - 2024 </footer>
